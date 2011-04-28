@@ -18,4 +18,4 @@ Install
 -------
 
 Visit the project's [homepage](http://sites.google.com/site/numethod20102) to get the installer package
-and additional information about the project.
+and additional information about the project (in spanish).
