@@ -1,7 +1,0 @@
-Java implementation of methods for Numerical Analysis.
-
-Includes:
-  * Basic expression parser.
-  * Functions of one variable.
-  * Systems of linear equations.
-  * Interpolation.
